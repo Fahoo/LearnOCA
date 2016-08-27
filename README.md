@@ -20,4 +20,5 @@ hostname: server
 port: 1521
 SID: orcl
 
+service name: sampledb
 sampledbadmin / Admin740403
